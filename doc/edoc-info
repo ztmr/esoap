@@ -1,0 +1,3 @@
+{application,esoap}.
+{packages,[]}.
+{modules,[yaws_soap12_lib,yaws_soap_lib,yaws_soap_srv]}.
