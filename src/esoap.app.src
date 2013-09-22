@@ -1,0 +1,12 @@
+{application, esoap,
+ [
+  {description, "SOAP for Erlang (distilled from YAWS)"},
+  {vsn, "semver"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  ibrowse
+                 ]},
+  {env, []}
+ ]}.
